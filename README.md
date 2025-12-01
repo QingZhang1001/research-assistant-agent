@@ -93,7 +93,7 @@ Create .env in project root:
 ```plaintext
 API_KEY=your_google_api_key
 ```
-# ▶️ Run the Multi-agent System
+## ▶️ Run the Multi-agent System
 ```python
 uv run python -m main
 ```
