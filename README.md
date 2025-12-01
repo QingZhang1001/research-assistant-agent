@@ -128,6 +128,34 @@ You (keyword refinement) > Machine learning genomics.
 
 ✅ Confirmed keywords: Machine learning genomics
 Step 2: I will now retrieve papers from arXiv using these keywords.
+
+🦉 Retrieval Agent > I found 10 papers based on your keywords: "Machine learning genomics". Here is a summary:
+
+1.  **Title:** Changing Data Sources in the Age of Machine Learning for Official Statistics
+    **Authors:** Cedric De Boom, Michael Reusens
+    **Published Year:** 2023
+    **Abstract:** This paper overviews the risks associated with changing data sources in machine learning for official statistics, including technical effects like concept drift and bias, and offers precautionary measures to maintain data integrity and reliability.
+
+2.  **Title:** DOME: Recommendations for supervised machine learning validation in biology
+    **Authors:** Ian Walsh, Dmytro Fishman, Dario Garcia-Gasulla, Tiina Titma, Gianluca Pollastri, The ELIXIR Machine Learning focus group, Jen Harrow, Fotis E. Psomopoulos, Silvio C. E. Tosatto
+    **Published Year:** 2020
+    **Abstract:** This paper presents community-wide recommendations for validating supervised machine learning in biology, using the DOME framework (data, optimization, model, evaluation) to help researchers and readers better understand and assess the performance and limitations of ML methods.
+
+    ......
+
+Step 3: I can give you a summarize of these research and show you potential future directions, press 'Enter' to start.
+Press Enter to continue, or type 'skip' to skip this step > 
+
+🦉 Foresee Agent > The search results indicate that the initial query "Machine learning genomics" did not yield papers directly related to "3D genomics." The retrieved papers cover a range of machine learning applications and challenges, but not specifically in the context of 3D genome organization.
+
+Here's a summary of the current research themes and observations from the provided abstracts:
+
+## Current Research Themes
+1.  **Data Integrity and Reliability:** Several papers touch upon the importance of data quality, changing data sources, and robust validation methods in machine learning. This is crucial for applications in official statistics and biology.
+2.  **Model Interpretability and Explainability:** There's a growing interest in understanding how machine learning models make decisions, with research exploring physics-inspired approaches and methods for learning interpretable models from biological data (e.g., whole genome sequences).
+3.  **Efficient Machine Learning Methods:** Papers discuss techniques for efficient approximation in large-scale machine learning and the use of learning curves for decision-making to optimize resource allocation.
+
+......
 ```
 
 ## 🛠️ Project Structure
