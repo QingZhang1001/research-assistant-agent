@@ -85,8 +85,8 @@ Controls the workflow in three phases:
 ## ⚙️ Installation & Setup
 1. Clone the repo  
 ```bash
-git clone <url-will-be-here>  
-cd research_assistant_agent
+git clone https://github.com/QingZhang1001/research-assistant-agent.git 
+cd research-assistant-agent
 ```
 2. Add your API key
 Create .env in project root:
@@ -171,5 +171,9 @@ This project was developed as part of the
 **5-Day AI Agents Intensive Course with Google**.
 
 Thanks to Goolge ADK contributions and open-source authors of `arxiv` and `google-genai`.
+
+## 👥 Contributors
+- **Qing Zhang** - Project developer
+- **ChatGPT / Google ADK Agents** - Guidance and debugging
 
  
